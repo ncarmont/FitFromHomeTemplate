@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "fitFromHome",
+    "name": "Fit From Home",
     "slug": "fitFromHome",
-    "version": "1.0.0",
+    "version": "1.0.6",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ncarmont.fitFromHome"
     },
     "android": {
       "adaptiveIcon": {
